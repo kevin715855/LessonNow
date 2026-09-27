@@ -1,0 +1,8 @@
+.venv/
+.env
+raw/
+translated_AI/
+processed/
+.vscode/
+__pycache/
+urls.txt

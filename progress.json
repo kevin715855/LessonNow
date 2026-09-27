@@ -1,0 +1,78 @@
+{
+  "total": 9,
+  "current": "https://roadmap.sh/ai/course/ai-engineer-roles-and-responsibilities-1790457051058?module=2&lesson=5",
+  "lessons": {
+    "https://roadmap.sh/ai/course/ai-engineer-roles-and-responsibilities-1789979651895?module=1&lesson=1": {
+      "status": "crawled",
+      "api_url": "https://roadmap.sh/api/v1-get-ai-course-lesson/ai-engineer-roles-and-responsibilities-1789979651895?moduleIndex=0&lessonIndex=0",
+      "raw_file": "raw\\module-01-lesson-01-ai-engineer-roles-and-responsibilities-1789979651895.json",
+      "module": 1,
+      "lesson": 1,
+      "slug": "ai-engineer-roles-and-responsibilities-1789979651895"
+    },
+    "https://roadmap.sh/ai/course/ai-engineer-roles-and-responsibilities-1789979651895?module=1&lesson=2": {
+      "status": "crawled",
+      "api_url": "https://roadmap.sh/api/v1-get-ai-course-lesson/ai-engineer-roles-and-responsibilities-1789979651895?moduleIndex=0&lessonIndex=1",
+      "raw_file": "raw\\module-01-lesson-02-ai-engineer-roles-and-responsibilities-1789979651895.json",
+      "module": 1,
+      "lesson": 2,
+      "slug": "ai-engineer-roles-and-responsibilities-1789979651895"
+    },
+    "https://roadmap.sh/ai/course/ai-engineer-roles-and-responsibilities-1789979651895?module=1&lesson=3": {
+      "status": "crawled",
+      "api_url": "https://roadmap.sh/api/v1-get-ai-course-lesson/ai-engineer-roles-and-responsibilities-1789979651895?moduleIndex=0&lessonIndex=2",
+      "raw_file": "raw\\module-01-lesson-03-ai-engineer-roles-and-responsibilities-1789979651895.json",
+      "module": 1,
+      "lesson": 3,
+      "slug": "ai-engineer-roles-and-responsibilities-1789979651895"
+    },
+    "https://roadmap.sh/ai/course/ai-engineer-roles-and-responsibilities-1789979651895?module=1&lesson=4": {
+      "status": "crawled",
+      "api_url": "https://roadmap.sh/api/v1-get-ai-course-lesson/ai-engineer-roles-and-responsibilities-1789979651895?moduleIndex=0&lessonIndex=3",
+      "raw_file": "raw\\module-01-lesson-04-ai-engineer-roles-and-responsibilities-1789979651895.json",
+      "module": 1,
+      "lesson": 4,
+      "slug": "ai-engineer-roles-and-responsibilities-1789979651895"
+    },
+    "https://roadmap.sh/ai/course/ai-engineer-roles-and-responsibilities-1790457051058?module=2&lesson=1": {
+      "status": "crawled",
+      "api_url": "https://roadmap.sh/api/v1-get-ai-course-lesson/ai-engineer-roles-and-responsibilities-1790457051058?moduleIndex=1&lessonIndex=0",
+      "raw_file": "raw\\module-02-lesson-01-ai-engineer-roles-and-responsibilities-1790457051058.json",
+      "module": 2,
+      "lesson": 1,
+      "slug": "ai-engineer-roles-and-responsibilities-1790457051058"
+    },
+    "https://roadmap.sh/ai/course/ai-engineer-roles-and-responsibilities-1790457051058?module=2&lesson=2": {
+      "status": "crawled",
+      "api_url": "https://roadmap.sh/api/v1-get-ai-course-lesson/ai-engineer-roles-and-responsibilities-1790457051058?moduleIndex=1&lessonIndex=1",
+      "raw_file": "raw\\module-02-lesson-02-ai-engineer-roles-and-responsibilities-1790457051058.json",
+      "module": 2,
+      "lesson": 2,
+      "slug": "ai-engineer-roles-and-responsibilities-1790457051058"
+    },
+    "https://roadmap.sh/ai/course/ai-engineer-roles-and-responsibilities-1790457051058?module=2&lesson=3": {
+      "status": "crawled",
+      "api_url": "https://roadmap.sh/api/v1-get-ai-course-lesson/ai-engineer-roles-and-responsibilities-1790457051058?moduleIndex=1&lessonIndex=2",
+      "raw_file": "raw\\module-02-lesson-03-ai-engineer-roles-and-responsibilities-1790457051058.json",
+      "module": 2,
+      "lesson": 3,
+      "slug": "ai-engineer-roles-and-responsibilities-1790457051058"
+    },
+    "https://roadmap.sh/ai/course/ai-engineer-roles-and-responsibilities-1790457051058?module=2&lesson=4": {
+      "status": "crawled",
+      "api_url": "https://roadmap.sh/api/v1-get-ai-course-lesson/ai-engineer-roles-and-responsibilities-1790457051058?moduleIndex=1&lessonIndex=3",
+      "raw_file": "raw\\module-02-lesson-04-ai-engineer-roles-and-responsibilities-1790457051058.json",
+      "module": 2,
+      "lesson": 4,
+      "slug": "ai-engineer-roles-and-responsibilities-1790457051058"
+    },
+    "https://roadmap.sh/ai/course/ai-engineer-roles-and-responsibilities-1790457051058?module=2&lesson=5": {
+      "status": "crawled",
+      "api_url": "https://roadmap.sh/api/v1-get-ai-course-lesson/ai-engineer-roles-and-responsibilities-1790457051058?moduleIndex=1&lessonIndex=4",
+      "raw_file": "raw\\module-02-lesson-05-ai-engineer-roles-and-responsibilities-1790457051058.json",
+      "module": 2,
+      "lesson": 5,
+      "slug": "ai-engineer-roles-and-responsibilities-1790457051058"
+    }
+  }
+}
